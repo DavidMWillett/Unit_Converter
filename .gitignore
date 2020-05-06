@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Unit Converter/task/out/
+/Unit Converter/task/out/production/classes/
